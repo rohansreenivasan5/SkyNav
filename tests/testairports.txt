@@ -1,0 +1,6 @@
+1,"A","A","A","XXX","XXXX",47.808543,-111.235683,0,0,"A","A","airport","OurAirports"
+2,"B","B","A","XXX","XXXX",39.362971,-111.235683,0,0,"A","A","airport","OurAirports"
+3,"C","C","A","XXX","XXXX",40.843944,-78.368098,0,0,"A","A","airport","OurAirports"
+4,"D","D","A","XXX","XXXX",43.829574,-111.235683,0,0,"A","A","airport","OurAirports"
+5,"E","E","A","XXX","XXXX",35.383452,-111.235683,0,0,"A","A","airport","OurAirports"
+6,"F","F","A","XXX","XXXX",43.64619827,-70.30930328,0,0,"A","A","airport","OurAirports"
